@@ -10,6 +10,3 @@ Originally made in late 2020 as a quarantine project and a 1k subscribers specia
 
 # zeeshud-x-beta Branch
 The **zeeshud-x-beta** branch is an unfinished refresh of ZeesHUD's look. Due to the fact that I need to pay rent, I stopped working on this project as it would be a waste of time. You are free to finish this build and make it your own project.
-
-
-# I DON'T KNOW WHY I FORKED THIS. IF YOU HAVE ANY ISSUE WITH THIS TELL ME.

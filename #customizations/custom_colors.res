@@ -3,9 +3,9 @@
 	"Colors"
 	{
 		"ZeesMain"	"255 0 90 255"
-		"Crosshair"	"255 0 90 255"
+		"Crosshair"	"255 255 255 255"
 		"CrosshairDamage"	"242 0 0 255"
-		"Hitmarker"	"255 0 0 255"
+		"Hitmarker"	"255 0 90 255"
 		"Damage Heal"	"0 255 214 255"
 		"Damage Hurt"	"255 0 90 255"
 		"Damage Number"	"255 255 255 255"

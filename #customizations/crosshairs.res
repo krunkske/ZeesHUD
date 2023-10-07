@@ -7,7 +7,7 @@
 		"fieldName"	"CustomCrosshair"
 		"wide"	"f0"
 		"tall"	"f0"
-		"enabled"	"1"
+		"enabled"	"0"
 		"zpos"	"0"
 		"textAlignment"	"center"
 		"fgcolor"	"Crosshair"
@@ -16,5 +16,4 @@
 		"xpos"	"cs-0.49999"
 		"ypos"	"cs-0.4990"
 	}
-
 }
